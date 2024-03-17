@@ -7,7 +7,7 @@ stock_data = [
     {"ticker": "TSMC", "price": 902},
     {"ticker": "TATA", "price": 234}
 ]
-# 2 Dimensional Array
+# 2 Dimensional ArrayString
 stock_price2 = [
     [2, 3, 5, 7],
     [29, 31, 53, 443],
